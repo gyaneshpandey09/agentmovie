@@ -1,4 +1,4 @@
-#Problem Statement# -- Users often bounce off from platforms like Netflix/YouTube for lack of good content to watch. Often the problem is not that interesting content is not there but the user does not know about it.
+*Problem Statement* -- Users often bounce off from platforms like Netflix/YouTube for lack of good content to watch. Often the problem is not that interesting content is not there but the user does not know about it.
 #Why agents?# -- Agents can really help mapping all possible connections between movies or answer questions about why a movie is great and what other movies might exist like one.
 #Solution# -- Core to Movie Agent is movie_catalog_agent, an example of a multi-agent system leveraging a2a protocol.
 #The Build# -- This agent has been built using Google's ADK.
